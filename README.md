@@ -9,11 +9,11 @@ This repository contains a Power BI dashboard analyzing ecommerce sales data.
 - Category-wise quantity insights
 
 ## 📸 Dashboard Preview:
-![Dashboard Screenshot](ecommerce_dashboard.png)
+![Dashboard Screenshot](Ecommerce%20Dashboard.png)
 
 ## 📁 Files Included:
-- `Ecommerce_sales_Dashboard.pbix`: Power BI file
-- `ecommerce_dashboard.png`: Visual preview (screenshot)
+- `Ecommerce sales dashboard.pbix`: Power BI file
+- `Ecommerce Dashboard.png`: Visual preview (screenshot)
 
 ## 💡 Built With:
 - Microsoft Power BI
